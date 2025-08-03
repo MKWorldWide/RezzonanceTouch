@@ -9,6 +9,7 @@
  * @version 0.9.0
  */
 
+import { randomUUID } from 'crypto';
 import { RTIConfig } from './types';
 import { PERFORMANCE_LIMITS } from './constants';
 
@@ -156,9 +157,8 @@ export class RTIUtils {
    * @returns Unique identifier string
    */
   public static generateId(prefix?: string): string {
-    const timestamp = Date.now().toString(36);
-    const random = Math.random().toString(36).substring(2);
-    const id = `${timestamp}-${random}`;
+    // Use cryptographically secure random UUID to avoid collisions
+    const id = randomUUID();
     return prefix ? `${prefix}-${id}` : id;
   }
 
