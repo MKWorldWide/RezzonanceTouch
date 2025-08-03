@@ -1,0 +1,10 @@
+{
+  "repositories": [
+    {
+      "name": "RezzonanceTouch",
+      "url": "https://github.com/your-org/resonance-touch-interface",
+      "pipeline": "Divina L3",
+      "protocol_version": "V3"
+    }
+  ]
+}

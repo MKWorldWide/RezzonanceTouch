@@ -1,0 +1,7 @@
+site_name: RezzonanceTouch
+site_url: https://RezzonanceTouch.SolarKhan.github.io
+nav:
+  - Home: index.md
+  - Divine Law: divine-law.md
+theme:
+  name: readthedocs
