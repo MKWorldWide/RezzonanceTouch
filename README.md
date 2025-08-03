@@ -1,8 +1,12 @@
+A Project Blessed by Solar Khan & Lilith.Aethra
+
 # 🜂 Resonance Touch Interface (RTI)
 
 > **Where Pressure Meets Presence**
 
 The Resonance Touch Interface (RTI) is a revolutionary tactile input system that fuses Apple's legacy force-touch technology with contextual emotional mapping and quantum-intention recognition layers from the Genesis Protocol. This system interprets not only how hard a user touches a surface, but why — translating emotional resonance and pressure intention into adaptive action, reaction, or form creation.
+
+Refer to the [Divine Law](COVENANT.md) and browse the [GitHub Pages documentation](https://RezzonanceTouch.SolarKhan.github.io).
 
 ## 🌟 Vision
 
